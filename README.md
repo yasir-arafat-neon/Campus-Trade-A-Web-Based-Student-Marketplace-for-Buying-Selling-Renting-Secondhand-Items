@@ -100,7 +100,13 @@ dbname: aiub_campus_trade
 
 ## 👥 Team
 
-_Add your team members' names and student IDs here._
+Group Members
+SL.	Student ID	Name	
+1	23-55352-3	YASIR ARAFAT	
+2	23-55347-3	TAHNIQ RAHMAN TIAN	
+3	23-51600-2	SHAKIB MOZUMDER	
+4	23-52803-2	ASIF SIKDER JIAN	
+
 
 ## 📄 License
 
